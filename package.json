@@ -9,10 +9,10 @@
     "lint": "eslint"
   },
   "dependencies": {
+    "@nic/mf-lib-shared": "github:nic-company/mf-lib-shared",
     "next": "16.1.6",
     "react": "19.2.3",
-    "react-dom": "19.2.3",
-    "@nic/mf-lib-shared": "file:../mf-lib-shared"
+    "react-dom": "19.2.3"
   },
   "devDependencies": {
     "@tailwindcss/postcss": "^4",

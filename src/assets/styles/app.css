@@ -1,0 +1,3 @@
+@import "tailwindcss";
+/* 공유 라이브러리의 빌드 결과물로 가져오려면 src를 dist로 변경해야한다. */
+@source "../../node_modules/@nic/mf-lib-shared/src/**/*.{ts,tsx}";
